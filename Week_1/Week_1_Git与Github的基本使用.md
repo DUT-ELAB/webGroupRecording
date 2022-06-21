@@ -74,7 +74,7 @@ Bash以进行下一步操作。
 
 [任务提交处](https://docs.qq.com/sheet/DVE91VkhaS0FLY0Fx)
 + **Task 1**：不做考核
-+ **Task 2**：请在您创建好的Repository中输入命令`git log --pretty=format:"%h - %an<%ae> - %ad : %s"-p > task2_assessment.txt`，完成后请将文件task2_assessment.txt提交至对应的收集表附件栏中
++ **Task 2**：请在您创建好的Repository中输入命令`git log --pretty=format:"%h - %an<%ae> - %ad : %s" -p > task2_assessment.txt`，完成后请将文件task2_assessment.txt提交至对应的收集表附件栏中
 + **Task 3, 4**：请将您的Private Repository改为Public,随后将您的repository以 `<username>/<repository>`的格式提交至收集表文本栏中
 + **Task 5**：成员侧无需额外操作
 
