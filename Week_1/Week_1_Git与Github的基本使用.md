@@ -12,7 +12,7 @@ Git是主流的代码协作工具，本周将学习Git与Git主流平台Github�
 
 根据您使用的操作系统不同，Git的安装方式会有所不同。
 
-**在安装Git后，通过输入`git config --global user.name <username>`设置您的用户名（替换<username>），再通过输入`git config --global usere.email <email>`设置您的邮箱（替换<email>）。**
+**在安装Git后，通过输入`git config --global user.name <username>`设置您的用户名（替换`<username>`），再通过输入`git config --global user.email <email>`设置您的邮箱（替换`<email>`）。**
 
 请注意：邮箱将作为您在开源社区中识别自己的重要凭证，请谨慎设置，建议不要使用qq邮箱或网易系
 邮箱，推荐使用Gmail、Outlook等邮箱。
@@ -74,7 +74,7 @@ Bash以进行下一步操作。
 
 [任务提交处](https://docs.qq.com/sheet/DVE91VkhaS0FLY0Fx)
 + **Task 1**：不做考核
-+ **Task 2**：请在您创建好的Repository中输入命令`git log --pretty=format:"%h - %an<%ae> - %ad : %s"-p > task2_assessment.txt`，完成后请将文件task2_assessment.txt提交至对应的收集表附件栏中
++ **Task 2**：请在您创建好的Repository中输入命令`git log --pretty=format:"%h - %an<%ae> - %ad : %s" -p > task2_assessment.txt`，完成后请将文件task2_assessment.txt提交至对应的收集表附件栏中
 + **Task 3, 4**：请将您的Private Repository改为Public,随后将您的repository以 `<username>/<repository>`的格式提交至收集表文本栏中
 + **Task 5**：成员侧无需额外操作
 
