@@ -8,7 +8,7 @@ NPM是Node Package Manager，即Node.js的包管理器。不过实际上不止No
 
 ## Tasks
 ### 安装Visual Studio Code
-Visual Studio Code为微软开发的一款文本编辑器，其强大的性能与插件系统为VSCode强力赋能。请通过[Visual Studio Code官方网站](code.visualstudio.com)下载。
+Visual Studio Code为微软开发的一款文本编辑器，其强大的性能与插件系统为VSCode强力赋能。请通过[Visual Studio Code官方网站](https://code.visualstudio.com)下载。
 
 ### 使用PowerShell（仅限操作系统为Windows）
 1. 使用不同的命令行处理器，您可以在下列选项中二选一，新手推荐Windows Terminal：
@@ -18,7 +18,7 @@ Visual Studio Code为微软开发的一款文本编辑器，其强大的性能�
 
 ### 安装WSL（仅限操作系统为Windows 10或以上）
 **本教程最低要求版本为Windows 10 2004，若您的操作系统为Windows 8.1及以下操作系统，请使用虚拟机。**
-WSL全程Windows Subsystem for Linux，即适用于Linux的Windows子系统，旨在为既有Windows体验上更加便捷的提供Linux开发体验。
+WSL全称Windows Subsystem for Linux，即适用于Linux的Windows子系统，旨在为既有Windows体验上更加便捷的提供Linux开发体验。
 请通过[微软官方安装页面](https://docs.microsoft.com/zh-cn/windows/wsl/install "")安装WSL2，**需要注意该网页要求操作系统为Windows 11 或 Windows 10 2004以上**，若为Windows 10的更低版本，请更新。
 安装WSL默认的Linux发行版为Ubuntu，请知悉。安装后，请尽快熟悉Linux命令行环境。
 
