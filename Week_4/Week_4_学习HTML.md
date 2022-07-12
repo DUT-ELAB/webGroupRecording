@@ -22,7 +22,7 @@
 
 ## Assessments
 
-完成相应作业一到四并按照下列格式提交Pull Request。
+完成相应作业一到四并按照下列格式提交到`DUT-ELAB/Test`仓库。
 
 ```
 ./
