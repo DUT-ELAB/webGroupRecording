@@ -4,7 +4,7 @@
 
 Git是主流的代码协作工具，本周将学习Git与Git主流平台Github的使用
 
-关于Github的访问问题可以参考[GitHub访问问题](GitHub访问问题.pdf)
+关于Github的访问问题可以参考[GitHub访问问题](GitHub访问问题.md)
 
 ## Tasks
 
