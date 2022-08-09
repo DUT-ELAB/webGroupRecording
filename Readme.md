@@ -6,3 +6,4 @@
 2.  [2022年7月17日 Week_5_学习CSS](./Week_5/Week_5_学习CSS.md)
 2.  [2022年7月25日 Week_6_学习Javascript](./Week_6/Week_6_学习Javascript.md)
 2.  [2022年8月2日 Week_7_Web表单](./Week_7/Week_7_Web表单.md)
+2.  [2022年8月9日 Week_8_Javascript深入学习](./Week_8/Week_8_Javascript深入学习.md)
